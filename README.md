@@ -1,1 +1,1 @@
-URL: https://food-calculator.yixian.website/
+URL: https://diet-calculator.yixian.website/
